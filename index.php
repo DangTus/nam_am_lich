@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Năm âm lịch</title>
+	<title>Xem tên năm âm lịch</title>
 	<link rel="SHORTCUT ICON" href="img/logo_web.png">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 	
@@ -14,7 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="css.css">
 </head>
 <body>
-	<h1 class="tieu_de">TRANG WEB COI TÊN NĂM ÂM LỊCH</h1>
+	<h1 class="tieu_de">TRANG WEB XEM TÊN NĂM ÂM LỊCH</h1>
 	<div class="container">
 		<div class="input-group mb-3 nhap_nam">
 			<div class="input-group-prepend">
