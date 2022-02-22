@@ -1,0 +1,15 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+.container, .tieu_de{
+	margin-top: 100px;
+	text-align: center;
+	font-weight: bold;
+}
+.container .ket_qua{
+	text-align: center;
+	margin-top: 30px;
+	font-size: 30px;
+}
