@@ -81,4 +81,16 @@ $(document).ready(function() {
 			$(".ket_qua").html(can_text + " " + chi_text);
 		}
 	});	
+	
+	$.ajax({
+        url : "sever.php",
+        type : "post",
+        dataType:"text",
+        data : {
+        	id : 1
+        },
+        success : function (result){
+            $(".anh").html(result);
+        }
+    });
 });
